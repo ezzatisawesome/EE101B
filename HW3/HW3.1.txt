@@ -1,0 +1,2 @@
+Transfer_function	v1#Input_impedance	output_impedance_at_V(vo)
+1.999935940406966e+01	1.000000e+13	2.275754e-01
